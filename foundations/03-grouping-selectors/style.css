@@ -1,0 +1,14 @@
+.light-button,
+.dark-button {
+	font-family: Helvetica, 'Times New Roman', sans-serif;
+	font-size: 28px;
+}
+
+.light-button {
+	background-color: rgb(255,255,0);
+}
+
+.dark-button {
+	background-color: #000;
+	color: #fff;
+}
